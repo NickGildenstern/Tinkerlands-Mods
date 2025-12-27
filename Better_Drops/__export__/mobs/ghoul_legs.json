@@ -19,7 +19,7 @@
 	"sprite_item_walk" : null,
 	"sprite_hand" : null,
 	"sprite_gore" : "sprNPCGhoulGore",
-	"loot" : "[[373,1,1,2,\"db_item\"],[197,0.01,1,1,\"db_item_pool\"],[174,1,5,6,\"db_item\"],[173,1,1,20,\"db_item\"],[1190,0.01,1,1,\"db_item\"]]",
+	"loot" : "[[373,1,1,2,\"db_item\"],[197,0.01,1,1,\"db_item_pool\"],[174,1,5,6,\"db_item\"],[173,1,1,20,\"db_item\"],[1190,0.01,1,1,\"db_item\"],[360,0.01,1,1,\"db_item\"]]",
 	"spawn_day" : null,
 	"spawn_night" : 1,
 	"is_spider" : 0,
