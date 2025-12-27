@@ -1,0 +1,2 @@
+ID,Key,(!)Folder,Event,(=)Code
+5001,cap_increaser@cap_increase,root,E_CS_EVENT.None,//increased max hp/mp/defense achieved by using flowers.\nCONF.player.MaxHP = 4000;\nCONF.player.MaxMP = 2000;\nCONF.player.MaxDefense = 1000;\n\n//adjusted regen amounts hp/mp\nCONF.player.HPRegenAmountMax = 1;\nCONF.player.MPRegenAmountMax = 5;
