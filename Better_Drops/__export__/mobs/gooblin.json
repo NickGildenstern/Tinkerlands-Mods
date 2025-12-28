@@ -19,7 +19,7 @@
 	"sprite_item_walk" : "sprNPCGooblinWalk",
 	"sprite_hand" : null,
 	"sprite_gore" : "sprNPCGooblinGore",
-	"loot" : "[[197,0.01,1,1,\"db_item_pool\"],[1282,1,5,10,\"db_item\"],[1276,0.01,1,1,\"db_item\"]]",
+	"loot" : "[[197,0.01,1,1,\"db_item_pool\"],[1282,1,5,10,\"db_item\"],[1276,0.01,1,1,\"db_item\"],[1699,0.01,1,1,\"db_item\"]]",
 	"spawn_day" : null,
 	"spawn_night" : 1,
 	"is_spider" : 0,
