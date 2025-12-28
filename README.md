@@ -53,6 +53,6 @@ If you’d like to contribute or share feedback — feel free to open a Pull Req
 ## 💌 Credits
 
 Created with ❤️ by **MySkill**  
-Contributor 💕 [Sasara](https://github.com/Sasara2201)  
+Contributor 💕 [Sasara](https://github.com/Sasara2201), 🐇Bunny🐇  
 Follow me, star this repo ⭐, or join the Tinkerlands community to support future mods!  
 Discord: https://discord.gg/ES2UvUrtdR
